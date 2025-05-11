@@ -23,5 +23,8 @@
 /*Кнопки*/
 .p-text-bold {
     font-family: "ArialBlack", Arial, sans-serif;
+    src: url('https://github.com/Wyosd-IG/Tilda-styles/blob/main/arial_black.woff2') format("woff2");
     font-weight: 900
+    font-style: normal;
+    font-display: swap;
 }
